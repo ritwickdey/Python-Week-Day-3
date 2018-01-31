@@ -8,4 +8,7 @@ def SayHello(greeting = "Hello", name = "User"):
 
 
 print(SayHello()) # Output : Hello, User!
-print(SayHello("Hello", "Ritwick")) # Output : Hello, Ritwick!
+print(SayHello("Hey", "Ritwick")) # Output : Hey, Ritwick!
+
+
+# ---------------------------------------------------------------------------------------------

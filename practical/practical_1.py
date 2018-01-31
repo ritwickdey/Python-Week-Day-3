@@ -21,7 +21,7 @@ def SayHello(greeting, name):
     return greeting + ", " + name + "!"
 
 
-print(SayHello("Hi", "Ritwick"))
-print(SayHello("Hello", "Akash"))
+print(SayHello("Hi", "Ritwick")) # Output : Hi, Ritwick!
+print(SayHello("Hello", "Akash")) # Output : Hello, Akash!
 
 # ---------------------------------------------------------------------------------------------
